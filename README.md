@@ -55,6 +55,7 @@ p {
 }
 .link:hover {
   opacity: 0.85;
+}
 .wa { background: #25D366; }
 .shopee { background: #FF5722; }
 footer {
