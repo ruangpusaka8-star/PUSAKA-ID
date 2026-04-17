@@ -1,3 +1,5 @@
+[link.html](https://github.com/user-attachments/files/26835952/link.html)
+<!DOCTYPE html><html lang="id">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -86,8 +88,6 @@ footer {
     <div class="profile-container">
   <img src="Sajam.jpg" alt="Foto Profil" class="profile-img">
 </div>
-
-
 <h2>RUANG SAJAM</h2>
 <p>Selamat datang di website kita</p>
 
@@ -99,3 +99,4 @@ footer {
 
   </div>
 </body>
+</html>
