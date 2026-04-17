@@ -88,7 +88,7 @@ footer {
   <img src="Sajam.jpg" alt="Foto Profil" class="profile-img">
 </div>
 <h2>RUANG SAJAM</h2>
-<p>Selamat datang di website kita</p>
+<p>Selamat datang di website kami</p>
 
 <!-- Ganti link di bawah -->
 <a class="link wa" href="https://wa.me/6287823546360" target="_blank">WhatsApp</a>
